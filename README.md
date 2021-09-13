@@ -1,2 +1,2 @@
 # maquettehtmlcssDeFigma
-https://github.com/kamelan2021/maquettehtmlcssDeFigma/
+https://kamelan2021.github.io/maquettehtmlcssDeFigma/
